@@ -40,3 +40,5 @@ Look at the log of your commits and save its output into a new file `log.txt`. A
 
 Lastly, push your changes to the branch with the name of your GitHub username.
 In GitHub, go to https://github.com/IDH-Cologne-Deep-Learning-2024/Exercise-1 and switch to your branch. Make sure that everything worked correctly.
+
+Deadline for this exercise is October 17, 2024, 08:00:00 CEST.

@@ -4,7 +4,7 @@ This is the first exercise for the course [Deep Learning](https://lehre.idh.uni-
 
 First, create an account on [GitHub](https://github.com). If you have an existing GitHub account, you may use it as well.
 
-Send me an email to janis.pagel@uni-koeln.de with your GitHub account name, your real name and your matriculation number, so that I know that it is your account.
+Send me an email to janis.pagel@uni-koeln.de with your GitHub account name, your real name and your matriculation number, so that I know that it is your account. I will then add your account to the GitHub organization. You can only push your files to the repository once I have added your account.
 
 Go to http://compute.spinfo.uni-koeln.de and create an account there. Open the terminal by clicking on File > New > Terminal. Create an SSH key following [this guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). Add this SSH key to your GitHub account following [this guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 Next, add your name and email to the git config following [this](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [this guide](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address). The email you choose should also be set in your GitHub account.

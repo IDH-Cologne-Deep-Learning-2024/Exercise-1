@@ -1,0 +1,35 @@
+commit 3191355c6688b5435ea65fc14295d796adf3748a
+Author: Hasan Atici <hasanm.atici@gmail.com>
+Date:   Thu Oct 10 16:21:38 2024 +0000
+
+    Author´s Name
+
+commit 8c0ecfe6f725df68f70c249ffcbe4f047519d580
+Author: Hasan Atici <hasanm.atici@gmail.com>
+Date:   Thu Oct 10 16:17:06 2024 +0000
+
+    First Exercise Commit
+
+commit f00a07b228bbaa2ff4b392ee722e62d890c18e55
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 11:09:41 2024 +0200
+
+    Add note about organization and push rights
+
+commit 235e369e1241df0a1f171e7a6a6ea2bc5eb3abdf
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 11:07:17 2024 +0200
+
+    Add deadline
+
+commit e0bdf3f56194e36d1bdf6884c31b48f223516429
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 10:50:11 2024 +0200
+
+    Fix typo
+
+commit 04f61f336f55004c60d96ee62dd4a35377b59d45
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 10:47:08 2024 +0200
+
+    Add README

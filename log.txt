@@ -1,0 +1,6 @@
+f0c3a3f Author Namen hinzugefügt
+0c605f5 Zu meinem Branch hinzugefügt
+f00a07b Add note about organization and push rights
+235e369 Add deadline
+e0bdf3f Fix typo
+04f61f3 Add README

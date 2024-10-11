@@ -1,0 +1,33 @@
+commit cd19dfe36e97337780410233e6f5e30fa3520a9d (HEAD -> Finallineal)
+Author: FinalLineal <MyEMail>
+Date:   Thu Oct 10 17:35:48 2024 +0000
+
+    Added Author to shakespeare-sonnet-1.txt file
+
+commit 367e0d07e72ccc3c488af8befa778d504d7ce8ed
+Author: FinalLineal <MyEMail>
+Date:   Thu Oct 10 17:28:39 2024 +0000
+
+    Added shakespeare-sonnet-1.txt file
+
+commit f00a07b228bbaa2ff4b392ee722e62d890c18e55 (origin/main, origin/HEAD, main)
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 11:09:41 2024 +0200
+
+    Add note about organization and push rights
+
+commit 235e369e1241df0a1f171e7a6a6ea2bc5eb3abdf
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 11:07:17 2024 +0200
+
+    Add deadline
+
+commit e0bdf3f56194e36d1bdf6884c31b48f223516429
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 10:50:11 2024 +0200
+
+    Fix typo
+
+commit 04f61f336f55004c60d96ee62dd4a35377b59d45
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 10:47:08 2024 +0200

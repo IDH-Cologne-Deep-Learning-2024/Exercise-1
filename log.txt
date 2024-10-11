@@ -1,0 +1,296 @@
+2024-10-11 22:08:11.950 [warning] Running on the desktop; workspaceId=; storageUri=vscode-userdata:/c:/Users/1fade/AppData/Roaming/Code/User/globalStorage/github.remotehub
+2024-10-11 22:08:11.950 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2024-10-11 22:08:11.950 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 0 ms
+2024-10-11 22:08:29.270 [info] [   10] GitHub.ensureAuthenticated
+2024-10-11 22:08:39.932 [warning] [   10] GitHub.ensureAuthenticated took 10662 ms
+2024-10-11 22:08:41.246 [warning] Running on the desktop; workspaceId=5f00ce2085e0963df55a1da56efc8f62; storageUri=vscode-userdata:/c:/Users/1fade/AppData/Roaming/Code/User/globalStorage/github.remotehub
+2024-10-11 22:08:41.246 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2024-10-11 22:08:41.246 [info] [    6] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/settings.json)
+2024-10-11 22:08:41.246 [info] [    8] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/tasks.json)
+2024-10-11 22:08:41.246 [info] [   10] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/launch.json)
+2024-10-11 22:08:41.246 [info] [   18] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/extensions.json)
+2024-10-11 22:08:41.246 [info] [   20] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.git/config)
+2024-10-11 22:08:41.246 [info] [    6] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/settings.json): Not found; no operations
+2024-10-11 22:08:41.246 [info] [    8] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/tasks.json): Not found; no operations
+2024-10-11 22:08:41.246 [info] [    6] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/settings.json) took 6 ms
+2024-10-11 22:08:41.246 [info] [   10] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/launch.json): Not found; no operations
+2024-10-11 22:08:41.246 [info] [    8] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/tasks.json) took 6 ms
+2024-10-11 22:08:41.246 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 15 ms
+2024-10-11 22:08:41.246 [info] [   10] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/launch.json) took 6 ms
+2024-10-11 22:08:41.246 [info] [   18] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/extensions.json): Not found; no operations
+2024-10-11 22:08:41.246 [info] [   20] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.git/config): Not found; no operations
+2024-10-11 22:08:41.246 [info] [   18] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/extensions.json) took 7 ms
+2024-10-11 22:08:41.246 [info] [   20] ChangeStore.readFile(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1/.git/config) took 7 ms
+2024-10-11 22:08:41.246 [info] [   30] GitHub.createMetadata(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, undefined)
+2024-10-11 22:08:41.246 [info] Parsed metadata for vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1: name IDH-Cologne-Deep-Learning-2024/Exercise-1, owner IDH-Cologne-Deep-Learning-2024, name Exercise-1, ref undefined
+2024-10-11 22:08:41.246 [info] [   31] GitHub.ensureAuthenticated
+2024-10-11 22:08:41.246 [info] [   32] GitHub.sync(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, resolution=0, to=undefined)
+2024-10-11 22:08:41.246 [info] [   33] GitHub.fetch(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=true, to=undefined)
+2024-10-11 22:08:41.246 [info] [   34] GitHub.sync(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, resolution=0, to=undefined)
+2024-10-11 22:08:41.246 [info] [   35] GitHub.fetch(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=true, to=undefined)
+2024-10-11 22:08:41.246 [info] [   31] GitHub.ensureAuthenticated took 29 ms
+2024-10-11 22:08:42.080 [info] [   30] GitHub.createMetadata(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, undefined) • Prefetching tree for f00a07b228bbaa2ff4b392ee722e62d890c18e55...
+2024-10-11 22:08:42.080 [info] [   37] GitHub.createFileTree(github://github/IDH-Cologne-Deep-Learning-2024/Exercise-1:f00a07b228bbaa2ff4b392ee722e62d890c18e55)
+2024-10-11 22:08:42.080 [info] [   38] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:undefined)
+2024-10-11 22:08:42.081 [info] [   39] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:)
+2024-10-11 22:08:42.081 [info] [   40] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:.vscode)
+2024-10-11 22:08:42.081 [info] [   37] GitHub.createFileTree(github://github/IDH-Cologne-Deep-Learning-2024/Exercise-1:f00a07b228bbaa2ff4b392ee722e62d890c18e55) took 0 ms
+2024-10-11 22:08:42.081 [warning] [   30] GitHub.createMetadata(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, undefined) took 872 ms • HEAD=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:08:42.365 [error] c:\Users\1fade\.vscode\extensions\github.remotehub-0.64.0\dist\extension.js:160:26289
+HttpError: Not Found
+2024-10-11 22:08:42.365 [info] [   40] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:.vscode) took 284 ms (Tree query took 284 ms)• Loading for path=.vscode failed; HttpError: Not Found
+2024-10-11 22:08:42.395 [info] [   39] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:): Tree=f00a07b228bbaa2ff4b392ee722e62d890c18e55; Tree query took 314 ms • Waiting for permissions...
+2024-10-11 22:08:42.395 [info] [   39] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:) Permissions query took 0 ms • Filling trie...
+2024-10-11 22:08:42.395 [info] [   39] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:) took 315 ms (Filling trie took 0 ms) • Tree=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:08:42.396 [warning] [    1] Time to root directory took 1205 ms
+2024-10-11 22:08:42.401 [warning] [   35] GitHub.fetch(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=true, to=undefined) took 1192 ms • Up to date
+2024-10-11 22:08:42.401 [warning] [   34] GitHub.sync(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, resolution=0, to=undefined) took 1192 ms • to=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:08:42.425 [warning] [   33] GitHub.fetch(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=true, to=undefined) took 1216 ms • Up to date
+2024-10-11 22:08:42.425 [warning] [   32] GitHub.sync(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, resolution=0, to=undefined) took 1216 ms • to=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:08:42.449 [info] [   38] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:undefined): Tree=f00a07b228bbaa2ff4b392ee722e62d890c18e55; Tree query took 368 ms • Waiting for permissions...
+2024-10-11 22:08:42.449 [info] [   38] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:undefined) Permissions query took 0 ms • Filling trie...
+2024-10-11 22:08:42.449 [info] [   38] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:undefined) took 368 ms (Filling trie took 0 ms) • Tree=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:08:42.459 [info] [  103] FileTree.loadAllContent(f00a07b228bbaa2ff4b392ee722e62d890c18e55)
+2024-10-11 22:08:42.459 [info] [  104] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55)
+2024-10-11 22:08:42.459 [info] [  104] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55) • Getting .tar from memory...
+2024-10-11 22:08:42.459 [info] [  104] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:08:42.461 [info] [  104] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55) took 2 ms (Getting .tar from disk took 2 ms) • Skipped download
+2024-10-11 22:08:42.461 [info] [  103] FileTree.loadAllContent(f00a07b228bbaa2ff4b392ee722e62d890c18e55) took 2 ms (Tar cache query took 2 ms) • No cached Tar
+2024-10-11 22:08:45.032 [info] [  127] getFileContents
+2024-10-11 22:08:45.032 [info] [  128] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55)
+2024-10-11 22:08:45.032 [info] [  128] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55) • Getting .tar from memory...
+2024-10-11 22:08:45.032 [info] [  128] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:08:45.038 [info] [  128] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55) took 6 ms (Getting .tar from disk took 5 ms) • Skipped download
+2024-10-11 22:08:45.310 [info] [  127] getFileContentsRetrieved README.md from web took 278 ms
+2024-10-11 22:09:41.199 [info] [  139] GitHub.fetch(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:09:41.213 [info] [  140] GitHub.fetch(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:09:41.213 [info] [  140] GitHub.fetch(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-10-11 22:09:41.213 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-10-11 22:09:41.530 [info] [  139] GitHub.fetch(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 331 ms • No changes detected
+2024-10-11 22:10:03.866 [info] ChangeStore.createChangesetvscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1)
+2024-10-11 22:10:03.866 [info] ChangeStore.createPatchvscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1) — undefined
+2024-10-11 22:10:07.194 [info] ChangeStore.discardAll(vscode-vfs://github/IDH-Cologne-Deep-Learning-2024/Exercise-1, undefined)
+2024-10-11 22:10:07.942 [warning] Running on the desktop; workspaceId=0fc8db1ee67e9b82ac5341527c972664; storageUri=vscode-userdata:/c:/Users/1fade/AppData/Roaming/Code/User/globalStorage/github.remotehub
+2024-10-11 22:10:07.942 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2024-10-11 22:10:07.942 [info] [    6] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/settings.json)
+2024-10-11 22:10:07.942 [info] [    8] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/tasks.json)
+2024-10-11 22:10:07.942 [info] [   10] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/launch.json)
+2024-10-11 22:10:07.942 [info] [   18] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/extensions.json)
+2024-10-11 22:10:07.942 [info] [   20] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.git/config)
+2024-10-11 22:10:07.942 [info] [    6] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/settings.json): Not found; no operations
+2024-10-11 22:10:07.942 [info] [    8] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/tasks.json): Not found; no operations
+2024-10-11 22:10:07.942 [info] [    6] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/settings.json) took 4 ms
+2024-10-11 22:10:07.942 [info] [   10] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/launch.json): Not found; no operations
+2024-10-11 22:10:07.942 [info] [    8] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/tasks.json) took 5 ms
+2024-10-11 22:10:07.942 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 12 ms
+2024-10-11 22:10:07.942 [info] [   10] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/launch.json) took 5 ms
+2024-10-11 22:10:07.942 [info] [   18] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/extensions.json): Not found; no operations
+2024-10-11 22:10:07.942 [info] [   20] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.git/config): Not found; no operations
+2024-10-11 22:10:07.942 [info] [   18] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.vscode/extensions.json) took 5 ms
+2024-10-11 22:10:07.942 [info] [   20] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/.git/config) took 5 ms
+2024-10-11 22:10:07.942 [info] [   30] GitHub.createMetadata(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, undefined)
+2024-10-11 22:10:07.942 [info] Parsed metadata for vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1: name IDH-Cologne-Deep-Learning-2024/Exercise-1, owner IDH-Cologne-Deep-Learning-2024, name Exercise-1, ref FadeAlex
+2024-10-11 22:10:07.942 [info] [   31] GitHub.ensureAuthenticated
+2024-10-11 22:10:07.942 [info] [   32] GitHub.sync(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, resolution=0, to=undefined)
+2024-10-11 22:10:07.942 [info] [   33] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=true, to=undefined)
+2024-10-11 22:10:07.942 [info] [   34] GitHub.sync(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, resolution=0, to=undefined)
+2024-10-11 22:10:07.942 [info] [   35] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=true, to=undefined)
+2024-10-11 22:10:07.942 [info] [   31] GitHub.ensureAuthenticated took 22 ms
+2024-10-11 22:10:08.599 [info] [   30] GitHub.createMetadata(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, undefined) • Prefetching tree for f00a07b228bbaa2ff4b392ee722e62d890c18e55...
+2024-10-11 22:10:08.599 [info] [   37] GitHub.createFileTree(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1:f00a07b228bbaa2ff4b392ee722e62d890c18e55)
+2024-10-11 22:10:08.599 [info] [   38] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:undefined)
+2024-10-11 22:10:08.600 [info] [   39] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:)
+2024-10-11 22:10:08.600 [info] [   40] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:.vscode)
+2024-10-11 22:10:08.600 [info] [   37] GitHub.createFileTree(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1:f00a07b228bbaa2ff4b392ee722e62d890c18e55) took 0 ms
+2024-10-11 22:10:08.600 [warning] [   30] GitHub.createMetadata(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, undefined) took 685 ms • HEAD=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:10:08.872 [info] [   38] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:undefined): Tree=f00a07b228bbaa2ff4b392ee722e62d890c18e55; Tree query took 273 ms • Waiting for permissions...
+2024-10-11 22:10:08.873 [info] [   38] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:undefined) Permissions query took 0 ms • Filling trie...
+2024-10-11 22:10:08.873 [info] [   38] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:undefined) took 273 ms (Filling trie took 0 ms) • Tree=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:10:08.876 [info] [   66] FileTree.loadAllContent(f00a07b228bbaa2ff4b392ee722e62d890c18e55)
+2024-10-11 22:10:08.876 [info] [   67] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55)
+2024-10-11 22:10:08.876 [info] [   67] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55) • Getting .tar from memory...
+2024-10-11 22:10:08.876 [info] [   67] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:10:08.877 [info] [   67] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55) took 1 ms (Getting .tar from disk took 1 ms) • Skipped download
+2024-10-11 22:10:08.877 [info] [   66] FileTree.loadAllContent(f00a07b228bbaa2ff4b392ee722e62d890c18e55) took 1 ms (Tar cache query took 1 ms) • No cached Tar
+2024-10-11 22:10:08.890 [info] [   39] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:): Tree=f00a07b228bbaa2ff4b392ee722e62d890c18e55; Tree query took 290 ms • Waiting for permissions...
+2024-10-11 22:10:08.890 [info] [   39] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:) Permissions query took 0 ms • Filling trie...
+2024-10-11 22:10:08.890 [info] [   39] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:) took 290 ms (Filling trie took 0 ms) • Tree=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:10:08.890 [warning] [    1] Time to root directory took 990 ms
+2024-10-11 22:10:08.892 [error] c:\Users\1fade\.vscode\extensions\github.remotehub-0.64.0\dist\extension.js:160:26289
+HttpError: Not Found
+2024-10-11 22:10:08.892 [info] [   40] FileTree.load(f00a07b228bbaa2ff4b392ee722e62d890c18e55:.vscode) took 293 ms (Tree query took 293 ms)• Loading for path=.vscode failed; HttpError: Not Found
+2024-10-11 22:10:08.927 [warning] [   35] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=true, to=undefined) took 1012 ms • Up to date
+2024-10-11 22:10:08.927 [warning] [   34] GitHub.sync(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, resolution=0, to=undefined) took 1012 ms • to=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:10:08.956 [warning] [   33] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=true, to=undefined) took 1041 ms • Up to date
+2024-10-11 22:10:08.956 [warning] [   32] GitHub.sync(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, resolution=0, to=undefined) took 1041 ms • to=f00a07b228bbaa2ff4b392ee722e62d890c18e55
+2024-10-11 22:10:16.389 [info] [  127] getFileContents
+2024-10-11 22:10:16.389 [info] [  128] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55)
+2024-10-11 22:10:16.390 [info] [  128] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55) • Getting .tar from memory...
+2024-10-11 22:10:16.390 [info] [  128] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:10:16.395 [info] [  128] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/f00a07b228bbaa2ff4b392ee722e62d890c18e55) took 5 ms (Getting .tar from disk took 5 ms) • Skipped download
+2024-10-11 22:10:16.696 [info] [  127] getFileContentsRetrieved README.md from web took 307 ms
+2024-10-11 22:10:40.924 [info] [  144] ChangeStore.createFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) — 0
+2024-10-11 22:10:40.938 [info] [  144] ChangeStore.createFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 13 ms
+2024-10-11 22:10:40.958 [info] [  154] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt)
+2024-10-11 22:10:40.962 [info] [  154] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 4 ms
+2024-10-11 22:10:46.166 [info] [  177] ChangeStore.updateDirectoryEntries(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1) — 1
+2024-10-11 22:10:46.166 [info] [  177] ChangeStore.updateDirectoryEntries(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1) took 0 ms
+2024-10-11 22:11:00.361 [info] [  182] ChangeStore.writeFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) — 635, undefined
+2024-10-11 22:11:00.361 [info] [  184] ChangeStore.writeFileCore(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) — 635, undefined
+2024-10-11 22:11:00.379 [info] [  184] ChangeStore.writeFileCore(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 17 ms
+2024-10-11 22:11:00.379 [info] [  182] ChangeStore.writeFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 17 ms
+2024-10-11 22:11:00.395 [info] [  203] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt)
+2024-10-11 22:11:00.396 [info] [  203] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 1 ms
+2024-10-11 22:11:04.258 [info] [  211] ChangeStore.writeFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) — 635, undefined
+2024-10-11 22:11:04.258 [info] [  213] ChangeStore.writeFileCore(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) — 635, undefined
+2024-10-11 22:11:04.258 [info] [  213] ChangeStore.writeFileCore(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 0 ms
+2024-10-11 22:11:04.258 [info] [  211] ChangeStore.writeFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 0 ms
+2024-10-11 22:11:07.906 [info] [  215] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:11:07.922 [info] [  216] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:11:07.923 [info] [  216] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 1 ms • Unable to fetch branch tips
+2024-10-11 22:11:07.924 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-10-11 22:11:08.260 [info] [  215] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 353 ms • No changes detected
+2024-10-11 22:11:23.931 [info] [  220] ChangeStore.updateDirectoryEntries(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1) — 1
+2024-10-11 22:11:23.931 [info] [  220] ChangeStore.updateDirectoryEntries(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1) took 0 ms
+2024-10-11 22:12:07.926 [info] [  224] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:12:07.926 [info] [  224] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-10-11 22:12:07.927 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-10-11 22:12:08.273 [info] [  225] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:12:08.759 [info] [  225] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 485 ms • No changes detected
+2024-10-11 22:13:07.941 [info] [  228] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:13:07.941 [info] [  228] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-10-11 22:13:07.941 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-10-11 22:13:08.766 [info] [  229] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:13:09.292 [warning] [  229] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 525 ms • No changes detected
+2024-10-11 22:13:15.166 [info] [  233] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt)
+2024-10-11 22:13:15.166 [info] [  235] GitHub.createAndPushCommit(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1)
+2024-10-11 22:13:15.168 [info] [  233] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 2 ms
+2024-10-11 22:13:15.869 [info] Fast forward to b86a01adfbcdc4268f5988d692a3117a450bd5eb; rootUri=vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1
+2024-10-11 22:13:15.885 [info] [  239] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=b86a01adfbcdc4268f5988d692a3117a450bd5eb)
+2024-10-11 22:13:15.889 [info] GitHubFS.onRefreshOrRepositoryChanged(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1)
+2024-10-11 22:13:15.889 [info] GitHubFS.onRefreshOrRepositoryChanged(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1)
+2024-10-11 22:13:15.895 [info] [  248] GitHub.createFileTree(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1:b86a01adfbcdc4268f5988d692a3117a450bd5eb)
+2024-10-11 22:13:15.895 [info] [  249] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:undefined)
+2024-10-11 22:13:15.895 [info] [  250] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:)
+2024-10-11 22:13:15.896 [info] [  251] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:.vscode)
+2024-10-11 22:13:15.896 [info] [  248] GitHub.createFileTree(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1:b86a01adfbcdc4268f5988d692a3117a450bd5eb) took 0 ms
+2024-10-11 22:13:16.175 [info] [  239] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=b86a01adfbcdc4268f5988d692a3117a450bd5eb) took 290 ms • Up to date
+2024-10-11 22:13:16.175 [warning] [  235] GitHub.createAndPushCommit(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1): Created and pushed commit b86a01adfbcdc4268f5988d692a3117a450bd5eb took 1008 ms
+2024-10-11 22:13:16.175 [info] ChangeStore.acceptAll(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, auto)
+2024-10-11 22:13:16.189 [info] [  250] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:): Tree=b86a01adfbcdc4268f5988d692a3117a450bd5eb; Tree query took 293 ms • Waiting for permissions...
+2024-10-11 22:13:16.189 [info] [  250] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:) Permissions query took 0 ms • Filling trie...
+2024-10-11 22:13:16.189 [info] [  250] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:) took 293 ms (Filling trie took 0 ms) • Tree=b86a01adfbcdc4268f5988d692a3117a450bd5eb
+2024-10-11 22:13:16.189 [info] [  283] getFileContents
+2024-10-11 22:13:16.189 [info] [  284] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb)
+2024-10-11 22:13:16.189 [info] [  284] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) • Getting .tar from memory...
+2024-10-11 22:13:16.189 [info] [  284] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:13:16.198 [info] [  284] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) took 8 ms (Getting .tar from disk took 8 ms) • Skipped download
+2024-10-11 22:13:16.200 [error] c:\Users\1fade\.vscode\extensions\github.remotehub-0.64.0\dist\extension.js:160:26289
+HttpError: Not Found
+2024-10-11 22:13:16.200 [info] [  251] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:.vscode) took 304 ms (Tree query took 304 ms)• Loading for path=.vscode failed; HttpError: Not Found
+2024-10-11 22:13:16.203 [info] [  308] getFileContents
+2024-10-11 22:13:16.203 [info] [  309] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb)
+2024-10-11 22:13:16.203 [info] [  309] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) • Getting .tar from memory...
+2024-10-11 22:13:16.203 [info] [  309] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:13:16.206 [info] [  309] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) took 3 ms (Getting .tar from disk took 3 ms) • Skipped download
+2024-10-11 22:13:16.225 [info] [  249] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:undefined): Tree=b86a01adfbcdc4268f5988d692a3117a450bd5eb; Tree query took 330 ms • Waiting for permissions...
+2024-10-11 22:13:16.225 [info] [  249] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:undefined) Permissions query took 0 ms • Filling trie...
+2024-10-11 22:13:16.225 [info] [  249] FileTree.load(b86a01adfbcdc4268f5988d692a3117a450bd5eb:undefined) took 330 ms (Filling trie took 0 ms) • Tree=b86a01adfbcdc4268f5988d692a3117a450bd5eb
+2024-10-11 22:13:16.227 [info] [  312] FileTree.loadAllContent(b86a01adfbcdc4268f5988d692a3117a450bd5eb)
+2024-10-11 22:13:16.227 [info] [  313] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb)
+2024-10-11 22:13:16.227 [info] [  313] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) • Getting .tar from memory...
+2024-10-11 22:13:16.227 [info] [  313] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:13:16.229 [info] [  313] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) took 1 ms (Getting .tar from disk took 1 ms) • Skipped download
+2024-10-11 22:13:16.229 [info] [  312] FileTree.loadAllContent(b86a01adfbcdc4268f5988d692a3117a450bd5eb) took 1 ms (Tar cache query took 1 ms) • No cached Tar
+2024-10-11 22:13:16.494 [info] [  308] getFileContentsRetrieved shakespeare-sonnet-1.txt from web took 290 ms
+2024-10-11 22:13:16.504 [info] [  283] getFileContentsRetrieved README.md from web took 315 ms
+2024-10-11 22:13:16.505 [info] [  318] getFileContents
+2024-10-11 22:13:16.505 [info] [  319] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb)
+2024-10-11 22:13:16.506 [info] [  319] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) • Getting .tar from memory...
+2024-10-11 22:13:16.506 [info] [  319] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:13:16.519 [info] [  319] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) took 13 ms (Getting .tar from disk took 13 ms) • Skipped download
+2024-10-11 22:13:16.799 [info] [  318] getFileContentsRetrieved README.md from web took 294 ms
+2024-10-11 22:13:55.379 [info] [  326] getFileContents
+2024-10-11 22:13:55.380 [info] [  327] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb)
+2024-10-11 22:13:55.381 [info] [  327] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) • Getting .tar from memory...
+2024-10-11 22:13:55.381 [info] [  327] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:13:55.392 [info] [  327] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/b86a01adfbcdc4268f5988d692a3117a450bd5eb) took 11 ms (Getting .tar from disk took 11 ms) • Skipped download
+2024-10-11 22:13:55.658 [info] [  326] getFileContentsRetrieved shakespeare-sonnet-1.txt from web took 279 ms
+2024-10-11 22:13:55.659 [info] [  328] ChangeStore.writeFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) — 663, undefined
+2024-10-11 22:13:55.659 [info] [  330] ChangeStore.writeFileCore(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) — 663, undefined
+2024-10-11 22:13:55.667 [info] [  330] ChangeStore.writeFileCore(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 8 ms
+2024-10-11 22:13:55.667 [info] [  328] ChangeStore.writeFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 8 ms
+2024-10-11 22:13:55.681 [info] [  349] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt)
+2024-10-11 22:13:55.683 [info] [  349] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 1 ms
+2024-10-11 22:13:59.086 [info] [  357] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt)
+2024-10-11 22:13:59.092 [info] [  357] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 5 ms
+2024-10-11 22:14:07.571 [info] [  363] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt)
+2024-10-11 22:14:07.571 [info] [  365] GitHub.createAndPushCommit(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1)
+2024-10-11 22:14:07.573 [info] [  363] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1/shakespeare-sonnet-1.txt) took 2 ms
+2024-10-11 22:14:07.942 [info] [  367] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:14:07.942 [info] [  367] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-10-11 22:14:07.942 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-10-11 22:14:08.311 [info] Fast forward to 5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2; rootUri=vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1
+2024-10-11 22:14:08.319 [info] [  369] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2)
+2024-10-11 22:14:08.322 [info] GitHubFS.onRefreshOrRepositoryChanged(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1)
+2024-10-11 22:14:08.322 [info] GitHubFS.onRefreshOrRepositoryChanged(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1)
+2024-10-11 22:14:08.328 [info] [  378] GitHub.createFileTree(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1:5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2)
+2024-10-11 22:14:08.328 [info] [  379] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:undefined)
+2024-10-11 22:14:08.328 [info] [  380] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:)
+2024-10-11 22:14:08.329 [info] [  381] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:.vscode)
+2024-10-11 22:14:08.329 [info] [  378] GitHub.createFileTree(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1:5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) took 0 ms
+2024-10-11 22:14:08.633 [info] [  380] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:): Tree=5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2; Tree query took 304 ms • Waiting for permissions...
+2024-10-11 22:14:08.633 [info] [  380] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:) Permissions query took 0 ms • Filling trie...
+2024-10-11 22:14:08.633 [info] [  380] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:) took 304 ms (Filling trie took 0 ms) • Tree=5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2
+2024-10-11 22:14:08.633 [info] [  410] getFileContents
+2024-10-11 22:14:08.634 [info] [  411] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2)
+2024-10-11 22:14:08.634 [info] [  411] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) • Getting .tar from memory...
+2024-10-11 22:14:08.634 [info] [  411] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:14:08.638 [info] [  411] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) took 4 ms (Getting .tar from disk took 4 ms) • Skipped download
+2024-10-11 22:14:08.661 [error] c:\Users\1fade\.vscode\extensions\github.remotehub-0.64.0\dist\extension.js:160:26289
+HttpError: Not Found
+2024-10-11 22:14:08.661 [info] [  381] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:.vscode) took 333 ms (Tree query took 333 ms)• Loading for path=.vscode failed; HttpError: Not Found
+2024-10-11 22:14:08.669 [info] [  379] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:undefined): Tree=5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2; Tree query took 341 ms • Waiting for permissions...
+2024-10-11 22:14:08.669 [info] [  379] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:undefined) Permissions query took 0 ms • Filling trie...
+2024-10-11 22:14:08.669 [info] [  379] FileTree.load(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2:undefined) took 341 ms (Filling trie took 0 ms) • Tree=5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2
+2024-10-11 22:14:08.674 [info] [  420] FileTree.loadAllContent(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2)
+2024-10-11 22:14:08.674 [info] [  421] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2)
+2024-10-11 22:14:08.674 [info] [  421] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) • Getting .tar from memory...
+2024-10-11 22:14:08.674 [info] [  421] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:14:08.674 [info] [  369] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) took 354 ms • Up to date
+2024-10-11 22:14:08.674 [warning] [  365] GitHub.createAndPushCommit(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1): Created and pushed commit 5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2 took 1102 ms
+2024-10-11 22:14:08.674 [info] ChangeStore.acceptAll(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, auto)
+2024-10-11 22:14:08.676 [info] [  421] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) took 1 ms (Getting .tar from disk took 1 ms) • Skipped download
+2024-10-11 22:14:08.676 [info] [  420] FileTree.loadAllContent(5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) took 1 ms (Tar cache query took 1 ms) • No cached Tar
+2024-10-11 22:14:08.703 [info] [  440] getFileContents
+2024-10-11 22:14:08.704 [info] [  441] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2)
+2024-10-11 22:14:08.704 [info] [  441] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) • Getting .tar from memory...
+2024-10-11 22:14:08.704 [info] [  441] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:14:08.706 [info] [  441] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) took 2 ms (Getting .tar from disk took 2 ms) • Skipped download
+2024-10-11 22:14:08.958 [info] [  440] getFileContentsRetrieved shakespeare-sonnet-1.txt from web took 254 ms
+2024-10-11 22:14:08.971 [info] [  410] getFileContentsRetrieved README.md from web took 337 ms
+2024-10-11 22:14:08.973 [info] [  444] getFileContents
+2024-10-11 22:14:08.974 [info] [  445] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2)
+2024-10-11 22:14:08.974 [info] [  445] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) • Getting .tar from memory...
+2024-10-11 22:14:08.974 [info] [  445] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-10-11 22:14:08.977 [info] [  445] TarPit.getTar(github/IDH-Cologne-Deep-Learning-2024/Exercise-1/5b3d865f280addea8f770bdd4c8bfff4e7a9e2f2) took 3 ms (Getting .tar from disk took 3 ms) • Skipped download
+2024-10-11 22:14:09.251 [info] [  444] getFileContentsRetrieved README.md from web took 277 ms
+2024-10-11 22:14:09.302 [info] [  450] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:14:09.619 [info] [  450] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 317 ms • Up to date
+2024-10-11 22:15:07.947 [info] [  492] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:15:07.948 [info] [  492] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-10-11 22:15:07.948 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-10-11 22:15:09.634 [info] [  493] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:15:09.995 [info] [  493] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 361 ms • No changes detected
+2024-10-11 22:16:07.962 [info] [  495] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:16:07.962 [info] [  495] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-10-11 22:16:07.962 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-10-11 22:16:10.006 [info] [  496] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined)
+2024-10-11 22:16:10.336 [info] [  496] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a2246616465416c6578227d7d/IDH-Cologne-Deep-Learning-2024/Exercise-1, force=undefined, to=undefined) took 329 ms • No changes detected

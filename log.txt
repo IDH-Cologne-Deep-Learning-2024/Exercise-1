@@ -1,0 +1,6 @@
+ff7010a author added: william shakespeare
+499c760 sonnet 1 added
+f00a07b Add note about organization and push rights
+235e369 Add deadline
+e0bdf3f Fix typo
+04f61f3 Add README

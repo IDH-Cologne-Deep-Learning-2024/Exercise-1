@@ -1,0 +1,53 @@
+commit a4e8b1c28f572b1c48fe6895909238bc10c9d0b9 (HEAD -> Chaotrax)
+Author: Chaotrax <chaotrax@gmail.com>
+Date:   Wed Oct 16 20:21:23 2024 +0200
+
+    added name of author
+
+commit 8de9ff48ab3f5ca844f70a20ab35ba0dde735506
+Author: Chaotrax <chaotrax@gmail.com>
+Date:   Wed Oct 16 20:17:23 2024 +0200
+
+    made new file, forgot to remove old from index
+
+commit b7fe7889f59bc99759cc430755434879a2c1a80b (origin/main, origin/HEAD, main)
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Wed Oct 16 19:21:46 2024 +0200
+
+    Add logfile
+
+commit 3ee2eb379c891702597353d3c62c58f4b8358260
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Wed Oct 16 19:20:39 2024 +0200
+
+    Add author information
+
+commit f082d67863dce10dcadba7de17ea6c0009080b01
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Wed Oct 16 19:20:06 2024 +0200
+
+    Add sonnet
+
+commit f00a07b228bbaa2ff4b392ee722e62d890c18e55
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 11:09:41 2024 +0200
+
+    Add note about organization and push rights
+
+commit 235e369e1241df0a1f171e7a6a6ea2bc5eb3abdf
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 11:07:17 2024 +0200
+
+    Add deadline
+
+commit e0bdf3f56194e36d1bdf6884c31b48f223516429
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 10:50:11 2024 +0200
+
+    Fix typo
+
+commit 04f61f336f55004c60d96ee62dd4a35377b59d45
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 10:47:08 2024 +0200
+
+    Add README

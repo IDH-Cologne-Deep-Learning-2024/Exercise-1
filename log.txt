@@ -1,0 +1,33 @@
+commit 175a4dfc55212cbebfda8afe3d55df9c0c0cceb9 (HEAD -> FearlessFaultier, origin/FearlessFaultier)
+Author: FearlessFaultier <rahel.bentlage@live.de>
+Date:   Wed Oct 16 19:15:25 2024 +0000
+
+    task 2: added author
+
+commit 7ae00e52e20e2d4fc5e655ad3cc11109eb8d4edc
+Author: FearlessFaultier <rahel.bentlage@live.de>
+Date:   Wed Oct 16 19:10:33 2024 +0000
+
+    task 1: added poem
+
+commit f00a07b228bbaa2ff4b392ee722e62d890c18e55 (origin/main, origin/HEAD, main)
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 11:09:41 2024 +0200
+
+    Add note about organization and push rights
+
+commit 235e369e1241df0a1f171e7a6a6ea2bc5eb3abdf
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 11:07:17 2024 +0200
+
+    Add deadline
+
+commit e0bdf3f56194e36d1bdf6884c31b48f223516429
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 10:50:11 2024 +0200
+
+    Fix typo
+
+commit 04f61f336f55004c60d96ee62dd4a35377b59d45
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Thu Oct 10 10:47:08 2024 +0200

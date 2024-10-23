@@ -1,3 +1,21 @@
+commit 5ba6d50bbf47f122a53cb00554b94982e1138360
+Author: NoMoreNamesAvailable2 <J.Benjamin@gmx.net>
+Date:   Thu Oct 24 00:19:17 2024 +0200
+
+    shakespeare-sonnet-1.txt
+
+commit beb956b4547291ed03e0e1b5da032b7c169772f8
+Author: NoMoreNamesAvailable2 <J.Benjamin@gmx.net>
+Date:   Thu Oct 24 00:16:27 2024 +0200
+
+    shakespeare-sonnet-1.txt
+
+commit b7fe7889f59bc99759cc430755434879a2c1a80b
+Author: Janis Pagel <janis.pagel@uni-koeln.de>
+Date:   Wed Oct 16 19:21:46 2024 +0200
+
+    Add logfile
+
 commit 3ee2eb379c891702597353d3c62c58f4b8358260
 Author: Janis Pagel <janis.pagel@uni-koeln.de>
 Date:   Wed Oct 16 19:20:39 2024 +0200
